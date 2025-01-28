@@ -5,7 +5,7 @@
 
 ---
 ### 💡 About Me  
-- 🔭 I’m currently working on **Splitwise Clone (Cricket Turf)**, **Hackathon Idea Classroom (Backend)**, and an **Uber Clone with Microservices Architecture**.  
+- 🔭 I’m currently working on **(passaion project )**, **Hackathon Idea Classroom (Backend)**, and an **research paper**.  
 - 🌱 I’m currently learning **React.js**, **Django**, and tackling **LeetCode Java Problems**.  
 - 👯 I’m looking to collaborate on **GSOC 2025 Projects**.  
 - 🤔 I’m seeking guidance for **GSOC 2025** ideas and implementation.  
