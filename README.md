@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Atharva Kulkarni!  
 
 ### 🚀 Product Intern | JAVASCRIPT| MERN STACK | AIML Enthusiast | 
-#### Skills: SQL | Python | Power BI | C++ | JavaScript | React.js | Typescript
+#### Skills: LLM | Python |GenAI | JAVA(dsa) | JavaScript | React.js | Typescript
 
 ---
 ### 💡 About Me  
